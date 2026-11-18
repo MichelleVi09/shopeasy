@@ -3,3 +3,4 @@ remove item
 Fix cart calculation
 Fix checkout bug
 Add checkout validation
+Add checkout confirmation

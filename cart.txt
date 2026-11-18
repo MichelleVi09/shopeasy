@@ -2,3 +2,4 @@ add item
 remove item
 Fix cart calculation
 Fix checkout bug
+Add checkout validation

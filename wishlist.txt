@@ -1,1 +1,2 @@
 Add wishlist page
+add favorite products
